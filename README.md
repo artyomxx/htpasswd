@@ -1,2 +1,0 @@
-# htpasswd
-htpasswd withouth htpasswd
